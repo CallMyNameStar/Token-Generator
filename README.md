@@ -1,2 +1,2 @@
 <h1 align="center">Token-Generator</h1>
-<img src"https://i.imgur.com/TmzgB0Z.jpg" />
+<img src="https://i.imgur.com/TmzgB0Z.jpg">
