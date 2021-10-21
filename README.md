@@ -2,6 +2,7 @@
 <p align="center">
 <img src="https://i.imgur.com/TmzgB0Z.jpg" width="500" height="200">
 <br />
+  
 # Requirements
 - Python 3.9
 - `pip install requests`
