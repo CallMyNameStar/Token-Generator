@@ -1,1 +1,1 @@
-<h1 align="center">Token-Generator</h1>
+<h1 align="center" color="purple">Token-Generator</h1>
