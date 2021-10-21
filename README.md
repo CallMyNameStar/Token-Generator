@@ -1,3 +1,3 @@
-<h1 align="center">Token-Generator</h1>
 <p align="center">
-<img src="https://i.imgur.com/TmzgB0Z.jpg" style="width:70%;height:200px;">
+<h1>Token-Generator</h1>
+<img src="https://i.imgur.com/TmzgB0Z.jpg" width="300" height="200">
